@@ -1,7 +1,7 @@
 # Classes
 [iframe](https://framer.cloud/nxqci/)(https://framer.cloud/nxqci/)
 
-<iframe src="https://framer.cloud/nxqci/"><iframe>
+<iframe src="https://framer.cloud/nxqci/"></iframe>
 
 # Basic Construction
 
