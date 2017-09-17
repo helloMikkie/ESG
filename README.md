@@ -1,10 +1,8 @@
 # Classes
 [iframe](https://framer.cloud/nxqci/)(https://framer.cloud/nxqci/)
-{::nomarkdown}
 
-<!-- HTML CODE-->
 <iframe src="https://framer.cloud/nxqci/"><iframe>
-{:/}
+
 # Basic Construction
 
     superman = 
